@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21663f25-4c81-4daf-88b8-763c132e8c4b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-45308051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SeasonDisplay.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Spinner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SeasonDisplay.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/SeasonDisplay.js" />
+        <option value="$PROJECT_DIR$/src/SeasonDisplay.css" />
+        <option value="$PROJECT_DIR$/src/Spinner.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\DELL\seasons\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\DELL\seasons\node_modules\prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21663f25-4c81-4daf-88b8-763c132e8c4b" name="Default Changelist" comment="" />
+      <created>1543852217380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543852217380</updated>
+      <workItem from="1543852220827" duration="12387000" />
+      <workItem from="1546610563459" duration="8399000" />
+      <workItem from="1547664218858" duration="731000" />
+      <workItem from="1548331248181" duration="3648000" />
+      <workItem from="1548935500106" duration="627000" />
+      <workItem from="1548951793979" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25830000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-5" y="-5" width="782" height="831" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.64" visible="true" weight="0.08590604" />
+      <window_info id="Structure" order="1" sideWeight="0.36" side_tool="true" visible="true" weight="0.08590604" />
+      <window_info id="npm" order="2" sideWeight="0.50074077" side_tool="true" weight="0.17449665" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/DELL/seasons">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.test.tsx#App#68;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/App.test.tsx#React#7;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/App.test.tsx#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.tsx#App.css#73;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/App.tsx#Component#16;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/App.tsx#React#7;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/App.tsx#logo#49;</node>
+            <node x="" y="">$PROJECT_DIR$/src/SeasonDisplay.css</node>
+            <node x="" y="">$PROJECT_DIR$/src/SeasonDisplay.js#React#7;C:/Users/DELL/seasons/src/SeasonDisplay.js#SeasonDisplay.css#27;</node>
+            <node x="" y="">$PROJECT_DIR$/src/Spinner.js#React#7;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/prop-types/checkPropTypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/object-assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/index.js#react.development.js#149;C:/Users/DELL/seasons/node_modules/react/index.js#react.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.js#React#7;C:/Users/DELL/seasons/src/index.js#ReactDOM#34;C:/Users/DELL/seasons/src/index.js#SeasonDisplay#68;C:/Users/DELL/seasons/src/index.js#Spinner#113;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/index.js#react-dom.development.js#1318;C:/Users/DELL/seasons/node_modules/react-dom/index.js#react-dom.production.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.tsx#App#90;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/index.tsx#React#7;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/index.tsx#ReactDOM#34;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/index.tsx#index.css#61;C:/Users/DELL/seasons/node_modules/react-scripts/template-typescript/src/index.tsx#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/logo.svg</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/profiling.js#react-dom.development.js#1317;C:/Users/DELL/seasons/node_modules/react-dom/profiling.js#react-dom.profiling.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts#React#624;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js#React#396;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.browser.development.js#_assign#356;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.browser.development.js#checkPropTypes#426;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js#index.js#393;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#p#279;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#q#306;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js#index.js#361;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js#React#393;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.node.development.js#_assign#353;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.node.development.js#checkPropTypes#423;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.node.development.js#stream#482;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#aa#322;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#p#276;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#q#303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js#React#392;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-test-utils.development.js#ReactDOM#422;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-test-utils.development.js#_assign#352;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js#index.js#389;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#g#275;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#l#302;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#m#321;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js#index.js#357;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#ReactDOM#370;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#_assign#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js#index.js#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#k#293;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#l#316;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js#index.js#375;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#React#341;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.development.js#_assign#371;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.development.js#checkPropTypes#411;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.development.js#scheduler#470;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.development.js#tracing#508;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js#index.js#378;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js#aa#311;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.production.min.js#ba#358;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.production.min.js#n#331;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js#index.js#395;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js#aa#310;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.profiling.min.js#n#330;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.profiling.min.js#r#357;C:/Users/DELL/seasons/node_modules/react-dom/cjs/react-dom.profiling.min.js#w#380;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js#index.js#394;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.development.js#_assign#337;C:/Users/DELL/seasons/node_modules/react/cjs/react.development.js#checkPropTypes#377;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js#k#260;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.browser.js#react-dom-server.browser.development.js#168;C:/Users/DELL/seasons/node_modules/react-dom/server.browser.js#react-dom-server.browser.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.js#server.node.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.node.js#react-dom-server.node.development.js#165;C:/Users/DELL/seasons/node_modules/react-dom/server.node.js#react-dom-server.node.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/serviceWorker.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/test-utils.js#react-dom-test-utils.development.js#164;C:/Users/DELL/seasons/node_modules/react-dom/test-utils.js#react-dom-test-utils.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/tracing.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.development.js#182;C:/Users/DELL/seasons/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.production.min.js#79;</node>
+            <node x="" y="">%PUBLIC_URL%/favicon.ico</node>
+            <node x="" y="">%PUBLIC_URL%/manifest.json</node>
+            <node x="" y="">https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css</node>
+            <node x="" y="">Component;</node>
+            <node x="" y="">react-dom</node>
+            <node x="" y="">stream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.16123614376889484" x="4279.0" y="1670.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeasonDisplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Spinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeasonDisplay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
